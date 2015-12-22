@@ -1,7 +1,7 @@
 name: shinyab
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.9406612140592188
+layout_spectrum: 0.74466
+typography_spectrum: 0.49418
 title: Things I see
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3b333e'
     - '#d3c9bf'
     - '#9e7b74'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.47208376904018223
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.31043915543705225
 purpose: []
