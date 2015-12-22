@@ -1,6 +1,6 @@
 name: shinyab
 favicon: null
-layout_spectrum: 0.11251341574825346
+layout_spectrum: 0
 typography_spectrum: 0.9406612140592188
 title: Things I see
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6853945881593972
+    - '#5c9bc7'
+    - '#090909'
+    - '#3b333e'
+    - '#d3c9bf'
+    - '#9e7b74'
+  brandStrength: 1
   lightness: 0.47208376904018223
-  saturation: 0.4434649939648807
+  saturation: 0
   rhythmicContrast: 0.31043915543705225
 purpose: []
