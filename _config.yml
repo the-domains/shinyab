@@ -2,6 +2,7 @@ name: shinyab
 favicon: null
 layout_spectrum: 0.11251341574825346
 typography_spectrum: 0.9406612140592188
+title: Things I see
 cta:
   domain: null
   bucket: null
