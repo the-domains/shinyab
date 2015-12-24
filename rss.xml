@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mePhoto by Shinya B]]></title>
-        <description><![CDATA[mePhoto by Shinya B]]></description>
+        <title><![CDATA[Shinya B's mePhoto]]></title>
+        <description><![CDATA[Shinya B's mePhoto]]></description>
         <link>https://thegrid.ai/shinyab/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 14:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 00:13:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/shinyab/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[d47 SHOKUDO]]></title>
+            <description><![CDATA[<article><h1>d47 SHOKUDO</h1><p>RICOH THETA S In-Camera HDR</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2c6867b-f597-4d50-932b-76107f163871.JPG"></article>]]></description>
+            <link>https://thegrid.ai/shinyab/d47-shokudo/index.html</link>
+            <guid isPermaLink="false">7ffce6c7-c820-4cc7-9a27-ec435ba8844b</guid>
+            <pubDate>Thu, 24 Dec 2015 00:12:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6b9412a-c378-4aa6-9a90-1952e39a5a1e.png">]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Shibuya, Tokyo by Shinya B]]></title>
-            <description><![CDATA[<article><h1>Shibuya, Tokyo by Shinya B</h1><p>December 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac6062547dabfc70b54a7dbbdbcdf4b43c778d1e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Shibuya, Tokyo by Shinya B</h1><p>December 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd07cb67b3cd8674ec5fcefe549c3c5fe8c85e19.jpg"></article>]]></description>
             <link>https://thegrid.ai/shinyab/2d631691-6e56-428b-97d4-68fc30ccc7ec/index.html</link>
             <guid isPermaLink="false">2d631691-6e56-428b-97d4-68fc30ccc7ec</guid>
             <pubDate>Tue, 22 Dec 2015 14:31:40 GMT</pubDate>
