@@ -1,6 +1,6 @@
 name: shinyab
 favicon: null
-layout_spectrum: 0.25728
+layout_spectrum: 0.00102
 typography_spectrum: 0.50583
 title: "Shinya B's mePhoto"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#3b333e'
     - '#d3c9bf'
     - '#9e7b74'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.25
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0.75
 purpose: []
